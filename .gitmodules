@@ -1,0 +1,9 @@
+[submodule "angular-sample-frontend"]
+	path = angular-sample-frontend
+	url = git@github.com:Toshimichi0915/angular-sample-frontend.git
+[submodule "angular-sample-spring"]
+	path = angular-sample-spring
+	url = git@github.com:Toshimichi0915/angular-sample-spring.git
+[submodule "angular-sample-backend"]
+	path = angular-sample-backend
+	url = git@github.com:Toshimichi0915/angular-sample-backend.git
